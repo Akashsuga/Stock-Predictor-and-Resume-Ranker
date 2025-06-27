@@ -67,8 +67,6 @@ An interactive stock prediction web app powered by an LSTM (Long Short-Term Memo
 ---
 
 
----
-
 ## 🧾 Requirements
 
 Install required packages from `requirements.txt`:
