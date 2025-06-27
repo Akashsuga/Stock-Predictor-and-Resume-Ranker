@@ -1,11 +1,8 @@
 
 # 📈 LSTM-Based Stock Price Prediction
 
-<p align="center">
-    <img src="https://img.shields.io/github/last-commit/pavithraus/Stock%20Price%20Predictor?style=flat-square" alt="Last Commit">
-    <img src="https://img.shields.io/github/languages/top/pavithraus/Stock%20Price%20Predictor?color=blue&style=flat-square" alt="Language">
-    <img src="https://img.shields.io/github/languages/count/pavithraus/Stock%20Price%20Predictor?style=flat-square" alt="Language Count">
-</p>
+A robust and interactive web application designed to forecast future stock closing prices using an LSTM (Long Short-Term Memory) neural network, built on historical market data. Developed with Streamlit, it provides an intuitive interface for data exploration and predictive visualization.
+
 
 ---
 
