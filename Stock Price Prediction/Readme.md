@@ -114,6 +114,10 @@ streamlit run app/lstm_app.py
 ## 🎥 Streamlit Demo
 Watch a demo of the app running locally in
 
+
+https://github.com/user-attachments/assets/d082bf34-13aa-4c62-985e-e834d709dc8c
+
+
 ---
 
 ## ✨ Features
