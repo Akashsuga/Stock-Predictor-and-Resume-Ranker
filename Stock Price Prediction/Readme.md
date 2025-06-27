@@ -86,7 +86,7 @@ Install required packages from `requirements.txt`:
 
 ```bash
 # Clone the repository
-git clone https://github.com/pavithraus/Stock-Price-Predictor.git
+git clone https://github.com/Akashsuga/Stock-Price-Predictor.git
 
 # Navigate into the project directory
 cd Stock-Price-Predictor
@@ -96,6 +96,7 @@ pip install -r requirements.txt
 
 # Run the Streamlit app
 streamlit run app/lstm_app.py
+'''
 
 ---
 
