@@ -97,6 +97,7 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app/lstm_app.py
 
+---
 
 ## 📸 Screenshots & Visuals
 - Actual vs Predicted 
@@ -105,8 +106,12 @@ streamlit run app/lstm_app.py
 - Training vs Test
 - Training vs Validation Loss 
 
+---
+
 ## 🎥 Streamlit Demo
 Watch a demo of the app running locally in
+
+---
 
 ## ✨ Features
 
