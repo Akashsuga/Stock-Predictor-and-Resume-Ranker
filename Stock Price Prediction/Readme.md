@@ -103,11 +103,16 @@ streamlit run app/lstm_app.py
 ---
 
 ## 📸 Screenshots & Visuals
-- Actual vs Predicted 
-- Model Evaluation
--
-- Training vs Test
-- Training vs Validation Loss 
+- Actual vs Predicted ![Actual vs Predicted](https://github.com/user-attachments/assets/f6bd8c2d-5a24-4d31-972e-66aaca14c76c)
+
+- Model Valuation
+- ![Model Valuation](https://github.com/user-attachments/assets/8217fa89-c307-4499-8cab-95b5a2e2590b)
+
+- Training vs Test ![Train Vs Test](https://github.com/user-attachments/assets/591fabeb-a692-41e6-b846-27b3c6c95ada)
+
+  
+- Training vs Validation Loss ![Training vs Loss Validation](https://github.com/user-attachments/assets/422fcab1-72d3-478c-9e16-50ffe14e812e)
+
 
 ---
 
