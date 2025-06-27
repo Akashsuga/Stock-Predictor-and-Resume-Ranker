@@ -39,27 +39,31 @@ An interactive stock prediction web app powered by an LSTM (Long Short-Term Memo
 
 ### `Stock Price Predictor/`
 
-1. app
+1. App
    - tcs_app.py # Streamlit dashboard application
    - tcs_lstm.py # LSTM training script
 
-2. models
+2. Models
    - lstm_model_v2.h5 # Trained LSTM model
    - scaler_v2.npy # Scaler used during training
    - min_v2.npy # Optional normalization min values
 
-3. assets
+3. Assets
    - Actual vs Predicted.png # Comparison of actual vs predicted prices
    - Model Valuation.PNG # Summary of model performance metrics like R², RMSE, and MAE.
    - Training vs Test.png # Line plot comparing predicted vs actual values on training and test datasets
    - Training vs Loss Validation.png # training and validation loss evolve to detect overfitting or underfitting
+
+4. Outputs
+   - forecast.csv # Sample output
      
-4. recordings/
+5. Recordings/
    -  streamlit_demo.mp4 # Screen recording of the Streamlit app
 
-5. requirements.txt # Required Python packages
+6. Requirements.txt # Required Python packages
 
-6.  README.md # Project documentation
+7.  README.md # Project documentation
+
 ---
 
 
